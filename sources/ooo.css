@@ -1,0 +1,162 @@
+@charset "utf-8";
+input{
+	border: 0px none;
+	width: 93%;
+	font-size: 1.2em;
+	color: #444;
+}
+body{
+	background-image:url(bg.png);
+	background-repeat:repeat;
+	background-color:#333;
+}
+img {
+	width:100%;
+}
+h1{
+	color:#FFC76B;
+	font-size:1em;
+}
+.wk {
+	width: 100%;
+	height: 100%;
+	border-style: none;
+	margin: 0 auto 0 auto;
+	padding: 0;
+	float: left;
+}
+.logo {
+	height: auto;
+	width: 86%;
+	margin: 0 7% 0 7%;
+	padding: 0;
+	border-width: 0px;
+	border-style: none;
+	float: left;
+}
+.ysj {
+	font-size: 0.6em;
+	position: relative;
+	top: 5%;
+	right: 3%;
+	float: right;
+}
+.ysj a{
+	padding-top: 2px;
+	padding-right: 5px;
+	padding-left: 5px;
+	padding-bottom: 2px;
+	border-radius: 18px;
+	margin: 0;
+	color: #F19678;
+	border: thin solid #F19678;
+	text-decoration: none;
+	height: auto;
+	width: auto;
+	}
+
+.wben2 {
+	font-size: 0.8em;
+	color: #999;
+	background-color: rgba(0,0,0,0.59);
+	position: fixed;
+	bottom: 0;
+	text-align: center;
+	vertical-align: middle;
+	margin: 0;
+	height: auto;
+	width: 100%;
+	padding: 2%;
+	border-style: none;
+	left: 0px;
+	right: 0px;
+}
+.dkuang{
+	text-align: left;
+	margin: 3%;
+	float: left;
+	height: auto;
+	width: 94%;
+	padding: 2% 0 2% 0;
+	border-radius: 18px;
+	background-color:#FFF;
+	border: thin solid #666;
+}
+.dkuang2{
+	text-align: left;
+	margin: -6% 3% 3% 4%;
+	float: left;
+	height: auto;
+	width: 93%;
+	padding: 0;
+	border-style: none;
+}
+.kuang{
+	margin: 2% 3% 0 3%;
+	float: left;
+	height: auto;
+	width: 100%;
+	padding: 0;
+	border-style: none;
+}
+.kuang1{
+	font-size: 0.7em;
+	color: #7FC1C0;
+	float: left;
+	height: auto;
+	width: 100%;
+	padding: 0;
+	border-style: none;
+
+}
+.kuang2{
+	margin: 3%;
+	font-size: 0.9em;
+	color: #FFCBA4;
+	float: left;
+	height: auto;
+	width: 100%;
+	padding: 0;
+	border-style: none;
+}
+.bqing{
+	white-space:nowrap;
+	width:12%;
+	margin:2% 4% 0 1%;
+	padding: 0;
+	border-style: none;
+	float:left;
+	
+}
+.button{
+	white-space:nowrap;
+	width:25%;
+	margin:2% 0 0 0;
+	padding: 0;
+	border-style: none;
+	float:left;
+	
+	}
+	
+#gg1{
+
+	width:85%;
+	margin:0 10% 0 5%;
+	padding:0;
+	}
+#gg2{
+	width:80%;
+	margin:0 10% 0 -2%;
+	padding:0;}
+#bqz{
+		font-size: 0.8em;
+	color: #666;
+	text-align: center;
+	vertical-align: middle;
+	margin: 0px;
+	float: left;
+	height: auto;
+	width: 100%;
+	padding: 1% 0 0 0;
+	border-style: none;
+	}
