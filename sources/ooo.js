@@ -14,7 +14,7 @@ function ggg()
 function zfb() 
 {
 	if (document.getElementById("qqq").innerHTML==""){
-	document.getElementById("qqq").innerHTML ="#吱口令#长按复制此条消息，打开支付宝即可添加我为好友KqBxj675BY"
+	document.getElementById("qqq").innerHTML ="支付宝 govgouvii@gmail.com"
 	}
 	else
 	{
