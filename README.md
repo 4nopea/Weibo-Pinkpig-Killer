@@ -7,3 +7,5 @@ A basic code to change the show of texts, to solve bans
 最后把这些数组合并起来文字顺序就变了。
 照着w3cschool查文档硬着头皮做的，响应式布局就自己百分之多少拿计算器算
 那啥，就当我在画画好了
+
+还有png压缩用了tinypng.com
